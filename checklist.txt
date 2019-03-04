@@ -1,0 +1,14 @@
+Remote Start Transaction 
+    Login -> Open Command Page -> Activate Command -> Get Active Transaction -> Logout
+
+Remote Stop Transaction
+    Login -> Open Command Page -> Activate Command -> Get Transaction Detail by ID -> Send Back to Clound -> logout
+
+Interval Check Deadlock Transaction (on self)
+
+After Remote Start Transaction periodic get detail (to Firebase)
+
+After Stop Transaction make Payment
+
+Update Historical Database
+
