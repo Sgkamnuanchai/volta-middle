@@ -1,0 +1,7 @@
+{
+    
+    "python.pythonPath": "/Users/nontachai/anaconda/envs/ev-dev/bin/python",
+    "python.linting.pylintEnabled": false,
+    "git.ignoreLimitWarning": true,
+   
+}
